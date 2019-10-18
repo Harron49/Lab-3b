@@ -1,2 +1,2 @@
 # Lab-3b
-Ropezytorium na laboratorium 3 dla grupy 2
+Repozytorium na laboratorium 3 dla grupy 2
